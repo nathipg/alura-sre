@@ -1,0 +1,8 @@
+Criar certificado HTTPS para o site:
+openssl req -x509 -sha256 -nodes -days 365 -newkey rsa:2048 -keyout server.key -out server.crt
+
+Verificar conteúdo do arquivo do certificado:
+openssl x509 -in server.crt -text
+
+Verificar conteúdo da chave privada:
+openssl rsa -in server.key -text -noout

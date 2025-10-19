@@ -1,0 +1,14 @@
+- Desconstruindo a web | https://www.casadocodigo.com.br/products/livro-desconstruindo-web?_pos=2&_sid=c5aa9971f&_ss=r
+As tecnologias por trás de uma requisição (não gratuito, português, livro) Neste livro, o autor Willian Molinari explora separadamente cada item de uma requisição web. Utilizando uma página HTML como exemplo, o autor conduz um estudo unificado e focado no entendimento de como a internet funciona.
+
+- Requisições HTTP utilizando o AXIOS (gratuito, português, texto) | https://www.alura.com.br/artigos/requisicoes-http-utilizando-axios
+Esse artigo oferece informações valiosas para aprimorar suas práticas de desenvolvimento e otimizar o manuseio de requisições HTTP em seus projetos. O autor explora a obtenção de dados de APIs HTTP, seja REST ou aquelas que fornecem JSON.
+
+- Redes de computadores (gratuito, português, livro) | https://educapes.capes.gov.br/bitstream/capes/432642/2/Livro%20%20Redes%20de%20Computadores.pdf | https://educapes.capes.gov.br/
+O livro de Redes de Computadores, escrito por Marcial Porto Fernández e editado pela Editora da Universidade Estadual do Ceará (EdUECE), está disponível para acesso no Portal eduCAPES. O portal é dedicado ao compartilhamento e disseminação de objetos educacionais para uso de alunos e professores da educação básica, superior e pós graduação. A leitura dessa obra possibilita uma detalhada compreensão das redes de computadores desde os seus princípios básicos até as aplicações mais conhecidas que usamos em nosso cotidiano.
+
+- Roadmap back-end | https://www.casadocodigo.com.br/products/livro-roadmap-backend?_pos=1&_sid=c5aa9971f&_ss=r
+Conhecendo o protocolo HTTP e arquiteturas REST (não gratuito, português, livro) O livro oferece uma exploração detalhada do protocolo HTTP e das arquiteturas REST, proporcionando uma trilha de aprendizado abrangente para pessoas desenvolvedoras back-end. O autor aborda conceitos fundamentais do protocolo HTTP, proporcionando uma sólida compreensão das práticas e princípios associados às arquiteturas RESTful.
+
+- Internet Engineering Task Force (gratuito, inglês, texto) | https://www.ietf.org/
+O Internet Engineering Task Force (IETF), fundado em 1986, é a principal organização de desenvolvimento de padrões para a Internet. O IETF cria padrões voluntários que frequentemente são adotados por usuários da Internet, operadores de rede e fabricantes de equipamentos, contribuindo assim para moldar o desenvolvimento da Internet. No site do IETF você encontrará documentos, especificações técnicas de protocolos e relatórios sobre redes de computadores, acessando as principais novidades relacionadas ao tema.
