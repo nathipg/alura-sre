@@ -1,0 +1,25 @@
+Configurações extras do github no projeto:
+- Crie uma pasta .github
+
+Templates de Issues: 
+- Dentro da pasta .github crie a subpasta ISSUE_TEMPLATE
+- Crie templates para os diferentes tipos de issues. Ex: bug_report.md, feature_request.md, etc
+
+Templates de Pull Requests:
+- Dentro da pasta .github crie a subpasta PULL_REQUEST_TEMPLATE
+- Dentro dela, crie um arquivo markdown. Ex: pull_request_template.md
+
+Doc sobre templates: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates
+Doc sobre palavras chave: https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/using-keywords-in-issues-and-pull-requests
+
+--
+
+Integração contínua:
+- É importante que o projeto tenha testes automatizados, pra evitar de quebrar
+- Ir na aba Actions do GitHub
+- Na seção Continuous Integration, escolher a tecnologia usada no projeto
+- Um arquivo yml será criado, renomeie ele pra workflow-ci.yml (Para facilitar o entendimento do que se trata, esse arquivo vai ser criado dentro da pasta .github/workflows)
+- Altere as configs do arquivo conforme necessário
+
+Doc Dependabot + GitHub Actions: https://docs.github.com/en/code-security/dependabot/working-with-dependabot/automating-dependabot-with-github-actions
+Doc Dependabot: https://docs.github.com/pt/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file

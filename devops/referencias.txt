@@ -12,3 +12,25 @@ Conhecendo o protocolo HTTP e arquiteturas REST (não gratuito, português, livr
 
 - Internet Engineering Task Force (gratuito, inglês, texto) | https://www.ietf.org/
 O Internet Engineering Task Force (IETF), fundado em 1986, é a principal organização de desenvolvimento de padrões para a Internet. O IETF cria padrões voluntários que frequentemente são adotados por usuários da Internet, operadores de rede e fabricantes de equipamentos, contribuindo assim para moldar o desenvolvimento da Internet. No site do IETF você encontrará documentos, especificações técnicas de protocolos e relatórios sobre redes de computadores, acessando as principais novidades relacionadas ao tema.
+
+--
+
+1 - GitHub Docs (gratuito, português, documentação) | https://docs.github.com/pt
+
+A documentação oficial do GitHub é um guia completo para pessoas usuárias da plataforma, abordando desde conceitos básicos, como criação de repositórios, até funcionalidades mais avançadas, como workflows de integração contínua. Oferece instruções detalhadas sobre ferramentas específicas, como GitHub Actions, e abrange tópicos essenciais, como fluxos de trabalho Git e colaboração em equipe.
+
+2 - Pro Git (gratuito, inglês, livro) | https://git-scm.com/book/en/v2
+
+Pro Git é um guia prático e detalhado sobre o uso do sistema de controle de versão Git, escrito por Scott Chacon e Ben Straub. O livro cobre desde conceitos fundamentais até tópicos mais avançados, incluindo instalação, operações básicas, ramificação, mesclagem e colaboração em projetos.
+
+3 - Git Reference (gratuito, inglês, documentação) | https://git-scm.com/docs
+
+A documentação oficial do Git inclui orientações detalhadas da configuração inicial do sistema à realização de operações mais avançadas, incluindo comandos, conceitos fundamentais e exemplos práticos. Além de textos, a página inclui alguns vídeos também.
+
+4 - Controlando versões com Git e GitHub (não gratuito, português, livro) | https://www.casadocodigo.com.br/products/livro-git-github?_pos=1&_sid=4314d3e4c&_ss=r
+
+O livro apresenta como utilizar o Git para controlar as versões de um projeto, explicando de forma contextualizada tópicos como comandos para criação de repositórios, trabalho local e remoto, branches, tags, conflitos, dentre outros assuntos.
+
+5 - Começando com Git: Aprendendo a versionar (gratuito, português, artigo) | https://www.alura.com.br/artigos/comecando-com-git-aprendendo-versionar
+
+Oferece uma introdução acessível e prática ao uso do Git, abordando as principais configurações e os fundamentos do sistema. O artigo traz vários exemplos para apresentar os tópicos de maneira contextualizada.

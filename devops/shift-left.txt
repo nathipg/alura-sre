@@ -1,0 +1,90 @@
+Shift Left é a prática que consiste em antecipar as atividades de teste, segurança e deploy do desenvolvimento de software, assim evitando problemas e trazendo melhorias para uma entrega de software mais rápida.
+
+Problemas que o Shift Left pode resolver:
+
+1. Bugs críticos em produção
+
+Adote o desenvolvimento orientado atTestes (TDD): Escreva os testes unitários antes do código, garantindo que cada parte do software funcione como esperado. Utilize frameworks como JUnit (Java), pytest (Python) ou Jest (JavaScript).
+
+Implemente a integração contínua (CI): Utilize ferramentas como Jenkins, GitLab CI/CD ou Azure DevOps para automatizar a execução de testes a cada novo código integrado.
+
+Utilize ferramentas de análise estática de código: SonarQube, ESLint ou FindBugs analisam o código em busca de potenciais bugs e vulnerabilidades.
+
+
+2. Vulnerabilidades de segurança
+
+Integre ferramentas de análise de segurança (SAST) no pipeline de CI/CD: Use Checkmarx, Veracode ou Fortify para identificar vulnerabilidades no código-fonte.
+
+Realize testes de penetração (pentest) em ambientes de desenvolvimento: Simule ataques reais para identificar falhas antes que o software chegue à produção.
+
+Adote práticas de DevSecOps: Integre a segurança em todas as etapas do desenvolvimento.
+
+
+3. Ambiente de produção instável
+
+Utilize IaC: Ferramentas como Terraform, Ansible ou CloudFormation garantem a consistência do ambiente.
+
+Crie ambientes de desenvolvimento e teste que espelhem a produção: Utilize containers como Docker.
+
+Implemente o monitoramento contínuo: Ferramentas como Prometheus, Grafana ou Datadog ajudam a identificar problemas rapidamente.
+
+
+4. Comunicação ineficiente entre equipes
+
+Promova a cultura DevOps: Incentive a colaboração e compartilhamento de responsabilidades.
+
+Realize reuniões diárias: Utilize metodologias como Scrum ou Kanban.
+
+Utilize ferramentas de comunicação e colaboração: Slack, Microsoft Teams ou Google Chat.
+
+
+5. Entrega lenta
+
+Implemente a entrega contínua (CD) e automatize o deploy em diferentes ambientes.
+
+Utilize técnicas como Blue/Green Deployment ou Canary Releases.
+
+Otimize o processo de build e teste, utilizando técnicas de paralelização.
+
+
+6. Custos elevados de desenvolvimento
+
+Invista em automação de testes.
+
+Priorize a qualidade do código.
+
+Monitore os custos de desenvolvimento.
+
+
+7. Dificuldade em atender aos requisitos do cliente
+
+Envolva o cliente em todo o processo de desenvolvimento.
+
+Utilize prototipação para validar ideias.
+
+Adote metodologias ágeis.
+
+
+8. Falta de visibilidade do progresso do projeto
+
+Utilize ferramentas de gerenciamento de projetos, como Jira, Trello ou Asana.
+
+Crie dashboards com métricas relevantes.
+
+
+9. Baixa qualidade do código
+
+Realize revisões de código.
+
+Defina padrões de codificação.
+
+Utilize ferramentas de análise estática de código.
+
+
+10. Sobrecarga da equipe de testes
+
+Automatize os testes.
+
+Implemente testes em diferentes níveis.
+
+Capacite a equipe de desenvolvimento para realizar testes.
